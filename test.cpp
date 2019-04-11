@@ -1,6 +1,7 @@
 #include <iostream>
 
 // Creating a new branch is quick.
+// git is good
 
 int main()
 {
