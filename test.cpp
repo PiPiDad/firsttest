@@ -1,7 +1,11 @@
 #include <iostream>
 
 // Creating a new branch is quick.
+<<<<<<< Updated upstream
 // git is good
+=======
+// ohye
+>>>>>>> Stashed changes
 
 int main()
 {
