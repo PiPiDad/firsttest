@@ -1,5 +1,6 @@
 #include <iostream>
 
+// Creating a new branch is quick.
 
 int main()
 {
